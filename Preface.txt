@@ -1,0 +1,7 @@
+#TodoList project with React
+This project is a simple TodoList app made using React. The app allows users to manage a to-do list, allowing them to add, remove, and mark tasks as completed.
+
+#Features
+Add a new task to the list.
+Mark a task as completed.
+Delete a task from the list.
